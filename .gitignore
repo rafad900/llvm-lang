@@ -1,0 +1,4 @@
+*.out
+*.ll
+scanner.c
+parser.tab.*
